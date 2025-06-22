@@ -1,0 +1,46 @@
+{
+  "query_time": "2025-06-22 14:01:33.662192",
+  "total_count": 3,
+  "success_count": 3,
+  "results": [
+    {
+      "ip": "8.8.8.8",
+      "status": "success",
+      "location_data": {
+        "ip": "8.8.8.8",
+        "location": "上海市上海市普陀区中海紫御豪庭",
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "address": "中海紫御豪庭"
+      },
+      "raw_result": "查询IP: 8.8.8.8\n定位: 上海市上海市普陀区中海紫御豪庭\n省份: 上海市\n市: 上海市\n区: 普陀区\n地址: 中海紫御豪庭"
+    },
+    {
+      "ip": "1.1.1.1",
+      "status": "success",
+      "location_data": {
+        "ip": "1.1.1.1",
+        "location": "上海市上海市闵行区海申花园",
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "address": "海申花园"
+      },
+      "raw_result": "查询IP: 1.1.1.1\n定位: 上海市上海市闵行区海申花园\n省份: 上海市\n市: 上海市\n区: 闵行区\n地址: 海申花园"
+    },
+    {
+      "ip": "114.114.114.114",
+      "status": "success",
+      "location_data": {
+        "ip": "114.114.114.114",
+        "location": "江苏省扬州市高邮市高邮街道",
+        "province": "江苏省",
+        "city": "扬州市",
+        "district": "高邮市",
+        "address": "高邮街道"
+      },
+      "raw_result": "查询IP: 114.114.114.114\n定位: 江苏省扬州市高邮市高邮街道\n省份: 江苏省\n市: 扬州市\n区: 高邮市\n地址: 高邮街道"
+    }
+  ]
+}
